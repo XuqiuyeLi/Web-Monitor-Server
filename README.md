@@ -31,11 +31,11 @@
 - `npm install --save request-promise`
 
 **Run the app.js**
-Warnings: the program takes only two arguments: <url> and <path-to-sample-file>, incorrect number of arguments and invalid ones will result in errors
+Warnings: the program takes only two arguments: "url" and "path-to-sample-file", incorrect number of arguments and invalid ones will result in errors
 	- Sample run `node app.js http://www.google.com sample.txt` 
 		- You can replace the url and the path 
 	- It will show on the terminal how many seconds have passed since the prober started monitoring the webiste
-	- Check the **sample.txt** for the full report including <time>,<statusCode>
+	- Check the **sample.txt** for the full report including "time,statusCode"
 
 
 
